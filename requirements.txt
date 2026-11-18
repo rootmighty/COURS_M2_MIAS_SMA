@@ -1,0 +1,7 @@
+requests
+python-dotenv
+openai
+pydantic>=2
+mcp>=2
+faiss-cpu
+numpy

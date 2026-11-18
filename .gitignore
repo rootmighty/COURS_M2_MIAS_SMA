@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Environnement virtuel
+.venv/
+.venv-crewai/
+# Python
+__pycache__/
+*.pyc
+
+# Données générées pendant le cours
+agenda.json
+memoire_patients.json
+index_faiss/
+
+# Notes de cours personnelles (ne pas pousser)
+notes_cours/
+
+# Système
+.DS_Store
